@@ -23,10 +23,13 @@ Jan 9, 2023
 Finishing task for Tutorial 1, starting on Programming Tutorial
 
 Jan 10, 2023
+Programming tutotial complete, "Most basic" unity tutorial complete, troubleshooting device connectivity
 
 Jan 11, 2023
+Factory Reset the device, testing VR Lab app, XR Unity TUtorial
 
 Jan 12, 2023
+Finish XR Unity tutorial, testing VR Lab app
 
 Jan 13, 2023
 
