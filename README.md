@@ -32,16 +32,22 @@ Jan 12, 2023
 Finish XR Unity tutorial, testing VR Lab app
 
 Jan 13, 2023
+More of XR Unity Tutorial, explore other free VR apps
 
 Jan 14, 2023
+Finish XR Unity Tutorial
 
 Jan 15, 2023
+Day Off
 
 Jan 16, 2023
+Start on NetCode tutorial series
 
 Jan 17, 2023
+Finish NetCode Tutorial Series
 
 Jan 18, 2023
+Do research on Avatars, Bioreactors, decide on area of focus for the internship
 
 Jan 19, 2023
 
