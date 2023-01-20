@@ -47,8 +47,9 @@ Jan 17, 2023
 Finish NetCode Tutorial Series
 
 Jan 18, 2023
-Do research on Avatars, Bioreactors, decide on area of focus for the internship
+Do research on Avatars, Bioreactors, decide on area of focus for the internship, clone repo, launch the project in unity
 
 Jan 19, 2023
+Narrowed down to BioReactor, playing with bio reactor in vr, checking out BioReactor model, modeling a computer terminal in VR tutorial
 
 Jan 20, 2023
