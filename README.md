@@ -53,3 +53,18 @@ Jan 19, 2023
 Narrowed down to BioReactor, playing with bio reactor in vr, checking out BioReactor model, modeling a computer terminal in VR tutorial
 
 Jan 20, 2023
+Videos and pictures from first visit
+
+Jan 23, 2023
+Bioreactor documentation and Touching base with Jeorge
+
+Jan 24, 2023
+Videos and pictures from second visit, Touching base with Jeorge, look into the lever vs. tubing
+
+Jan 25, 2023
+Bioreactor documentation and SOP for bioreactor
+
+Jan 26, 2023
+Tutorials on joints, rigid bodies and soft bodies, looking for Unity assets, chatGPT to generate joints with scripting 
+
+Jan 27, 2023
