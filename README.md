@@ -68,3 +68,22 @@ Jan 26, 2023
 Tutorials on joints, rigid bodies and soft bodies, looking for Unity assets, chatGPT to generate joints with scripting 
 
 Jan 27, 2023
+trying to generate joints with exhisting meshes, talking to Jeorge
+
+Jan 30, 2023
+preparing questions for Ricardo, research on VR headset
+
+Jan 31, 2023
+Exploring Wirebuilder, looking for comments, searching for Wirebuilder Pro, setting up package with Readme
+
+Feb 1, 2023
+setting up package with Readme, looking for solutions on forums, troubleshooting with Alex
+
+Feb 2, 2023
+Resizing the connector in Wirebuilder, experimenting with wirebuilder, troubleshooting standalone app build with Alex and Anton
+
+Feb 3, 2023 
+Personal day off, no progress
+
+Feb 6, 2023
+Setting up computer after moving, 
