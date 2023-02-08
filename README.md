@@ -86,4 +86,8 @@ Feb 3, 2023
 Personal day off, no progress
 
 Feb 6, 2023
-Setting up computer after moving, 
+Setting up computer after moving, looking into reducing size of tubing to wire size
+
+Feb 7, 2023
+Trello card for labels, playing around with tubing parameters - jittery behavior
+
