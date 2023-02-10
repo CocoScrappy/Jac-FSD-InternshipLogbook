@@ -91,3 +91,12 @@ Setting up computer after moving, looking into reducing size of tubing to wire s
 Feb 7, 2023
 Trello card for labels, playing around with tubing parameters - jittery behavior
 
+Feb 8, 2023
+IO cabinet labels, solved jittery behavior
+
+Feb 9, 2023
+Adding hook, redrawing pressure sensor wire, discovered issue with wire not staying on the hook, adding sockets
+
+Feb 10, 2023
+
+
