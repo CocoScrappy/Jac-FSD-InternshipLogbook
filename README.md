@@ -95,8 +95,12 @@ Feb 8, 2023
 IO cabinet labels, solved jittery behavior
 
 Feb 9, 2023
-Adding hook, redrawing pressure sensor wire, discovered issue with wire not staying on the hook, adding sockets
+Adding hook, redrawing pressure sensor wire, discovered issue with wire not staying on the hook, adding sockets - couldn't make it work
 
 Feb 10, 2023
+Made sockets work, experimenting with adding outlet to scene, several plugs at the end, plugs in the middle of wire, noting down the behavior
+
+Feb 13, 2023
+Meeting with Bob for hardware, discuss importing of lift mechanism to project, sick day
 
 
