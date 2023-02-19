@@ -83,7 +83,7 @@ Feb 2, 2023
 Resizing the connector in Wirebuilder, experimenting with wirebuilder, troubleshooting standalone app build with Alex and Anton
 
 Feb 3, 2023 
-Personal day off, no progress
+Personal day off(moving places), no progress
 
 Feb 6, 2023
 Setting up computer after moving, looking into reducing size of tubing to wire size
@@ -103,4 +103,16 @@ Made sockets work, experimenting with adding outlet to scene, several plugs at t
 Feb 13, 2023
 Meeting with Bob for hardware, discuss importing of lift mechanism to project, sick day
 
+Feb 14, 2023
+Still sick, not much progress
+
+Feb 15, 2023
+Meeting with Gregory
+Stil sick but working on Exhaust Heater wire
+
+Feb 16, 2023
+Troubleshooting odd behavior of Exhaust heater wire
+
+Feb 17, 2023
+Solved odd behavior of the heater wire, adding colliders to bars on top of Bioreactor 
 
