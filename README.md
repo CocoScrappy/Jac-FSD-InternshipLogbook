@@ -116,3 +116,8 @@ Troubleshooting odd behavior of Exhaust heater wire
 Feb 17, 2023
 Solved odd behavior of the heater wire, adding colliders to bars on top of Bioreactor 
 
+Feb 20, 2023
+Redoing Pressure sensor wire to spawn on a mount, pushing code to GitHub
+
+Feb 21, 2023
+look into pulling new plugs for IO Cabinet
