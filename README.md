@@ -120,4 +120,15 @@ Feb 20, 2023
 Redoing Pressure sensor wire to spawn on a mount, pushing code to GitHub
 
 Feb 21, 2023
-look into pulling new plugs for IO Cabinet
+look into pulling new plugs for IO Cabinet from Alex's branch
+
+Feb 22, 2023
+Redo Pressure sensor and Exhaust heater wire after a black out, adding the wires into the CompleteBioreactor prefab
+
+Feb 23, 2023
+Experimenting with detached sockets and StartAnchors for building tubing, making a plan for breaking down GasInlet tubing into prefabbed Wirebuilder sections
+
+Feb 24, 2023
+Build prefabs for tubes, experimenting with adding tubing to CompleteBioreactor Prefab
+
+
