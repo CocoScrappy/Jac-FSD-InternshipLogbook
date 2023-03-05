@@ -131,4 +131,18 @@ Experimenting with detached sockets and StartAnchors for building tubing, making
 Feb 24, 2023
 Build prefabs for tubes, experimenting with adding tubing to CompleteBioreactor Prefab
 
+Feb 27, 2023
+Trying to solve issues with adding tubing directly to BR prefab - not working
+
+Feb 28, 2023
+Fine tuning Y connector prefabs, building out GasInlet tubing
+
+Mar 1, 2023
+Preaparing presentation, wrapping up work on the project
+
+Mar 2, 2023
+Preaparing presentation, presentation day, updating Trello
+
+Mar 3, 2023
+Updating Trello, final meeting, pushing code to GitHub with latest changes to Gas Inlet tubing to GitHub
 
